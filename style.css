@@ -205,15 +205,14 @@ a:link {
   word-spacing: 10px;
   font-style: italic;
 }
-.hero-container h3 {
-  display: block;
+.hero-container .text {
   font: lighter;
   font-size: 25px;
-  line-height: 35px;
   margin-left: 40%;
-  margin-top: 10%;
-  width: 60%;
   text-align: center;
+  margin-top: 20%;
+  list-style: none;
+  font-weight: 500;
 }
 
 .img-01 {
@@ -273,14 +272,9 @@ a:link {
     width: 50%;
     margin-right: 230px;
   }
-  h3 {
-    display: block;
-    align-items: center;
-    text-align: justify;
-    margin-right: 1%;
-    word-spacing: 1px;
-    width: 100%;
-    padding: 14px 14px;
+  .text {
+    padding: 50px -55px;
+    font-size: 24px;
   }
   .button-contact {
     margin: auto;
@@ -288,7 +282,7 @@ a:link {
   }
 }
 @media screen and (max-width: 768px) and (max-width: 480px) {
-  .hero h1 h2 h3 {
+  .hero h1 h2 {
     font-size: 24px;
   }
 }
@@ -297,10 +291,7 @@ a:link {
     margin-right: 60px;
   }
   .img-01 {
-    margin-left: 25px;
-  }
-  h3 {
-    padding: 25px;
+    margin-left: 15px;
   }
 }
 * {
