@@ -138,8 +138,9 @@ a:link {
     justify-content: center;
   }
   .header-logo img {
-    width: 130px;
+    width: 100px;
     margin-top: 50%;
+    margin: auto;
   }
   .header-links {
     width: 100%;
@@ -149,7 +150,7 @@ a:link {
   .header-icons {
     gap: 50px;
     font-size: 12px;
-    margin-left: 10px;
+    margin-left: -55px;
     padding: 15px;
     margin-top: 5px;
   }
@@ -264,7 +265,7 @@ a:link {
     min-height: 60vh;
   }
   .hero-container {
-    margin-top: 80%;
+    margin-top: 60%;
   }
   .hero-container h1 {
     margin-top: -100%;

@@ -130,8 +130,9 @@ a:link {
   }
 
   .header-logo img {
-    width: 130px;
+    width: 100px;
     margin-top: 50%;
+    margin: auto;
   }
   .header-links {
     width: 100%;
@@ -141,7 +142,7 @@ a:link {
   .header-icons {
     gap: 50px;
     font-size: 12px;
-    margin-left: 10px;
+    margin-left: -55px;
     padding: 15px;
     margin-top: 5px;
   }
