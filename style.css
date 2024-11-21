@@ -268,12 +268,12 @@ a:link {
     margin-top: 60%;
   }
   .hero-container h1 {
-    margin-top: -100%;
+    margin-top: -105%;
     font-size: 22px;
-    margin-right: -1px;
+    margin-right: -55px;
   }
   .hero-container .text {
-    margin-right: -1px;
+    margin-right: -50px;
     font-size: 18px;
   }
   .hero-container .img-01 {
@@ -282,7 +282,7 @@ a:link {
   }
   .hero-container .button-contact {
     margin: auto;
-    margin-top: 30%;
+    margin-top: 50%;
   }
 }
 @media screen and (max-width: 768px) and (max-width: 390px) {
@@ -290,8 +290,8 @@ a:link {
     margin-top: 80%;
   }
   .hero-container h1 {
-    margin-top: -115%;
-    font-size: 22px;
+    margin-top: -120%;
+    font-size: 24px;
     margin-right: -55px;
   }
   .hero-container .text {
@@ -303,7 +303,7 @@ a:link {
     margin-right: 220px;
   }
   .hero-container .button-contact {
-    margin-top: 40%;
+    margin-top: 50%;
   }
   .hero-container .button-contact .hero-container {
     margin-top: 80%;
@@ -538,6 +538,14 @@ h7 {
     width: 55%;
     height: 250px;
   }
+  .section1 h4 {
+    text-align: center;
+    font-size: 20px;
+    font: bold;
+    margin-top: -65%;
+    line-height: 40px;
+    margin-right: -35px;
+  }
   h2 {
     font-size: 30px;
     padding: 0 14px;
@@ -556,22 +564,14 @@ h7 {
     font-size: 15px;
     line-height: 30px;
   }
-  h4 {
-    text-align: center;
-    font-size: 20px;
-    font: bold;
-    margin-top: -65%;
-    line-height: 40px;
-    margin-right: -35px;
-  }
   h7 {
     line-height: 50px;
     text-align: center;
   }
 }
 @media screen and (max-width: 390px) {
-  h4 {
-    margin-top: -260px;
+  .section1 h4 {
+    margin-top: -265px;
   }
   .img-02 {
     margin-left: -10px;
