@@ -571,8 +571,9 @@ h7 {
     line-height: 30px;
   }
   h7 {
-    line-height: 50px;
-    text-align: center;
+    line-height: 30px;
+    text-align: justify;
+    font-size: 20px;
   }
 }
 @media screen and (max-width: 390px) {
