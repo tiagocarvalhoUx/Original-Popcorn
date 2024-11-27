@@ -134,7 +134,11 @@ iframe {
 .logo {
   width: 150px;
 }
-
+@media screen and (max-width: 768px) {
+  .logo {
+    width: 100px;
+  }
+}
 // Botao whatsapp
 
 .btn-whatsapp {

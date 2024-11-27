@@ -532,6 +532,14 @@ h7 {
   line-height: 50px;
 }
 
+h11 {
+  font-size: 20px;
+  font-weight: 600;
+  text-decoration: underline;
+  text-align: justify;
+  margin: 200px;
+}
+
 @media screen and (max-width: 768px) {
   .section1 {
     width: 100%;
@@ -577,6 +585,13 @@ h7 {
     line-height: 30px;
     text-align: justify;
     font-size: 20px;
+  }
+  h11 {
+    font-size: 16px;
+    display: flex;
+    margin: auto;
+    text-align: center;
+    margin-top: 5%;
   }
 }
 @media screen and (max-width: 390px) {
@@ -724,6 +739,11 @@ iframe {
   width: 150px;
 }
 
+@media screen and (max-width: 768px) {
+  .logo {
+    width: 100px;
+  }
+}
 .btn-whatsapp {
   position: fixed;
   bottom: 14px;
