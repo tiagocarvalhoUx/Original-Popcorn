@@ -280,7 +280,7 @@ a:link {
   .hero-container .text {
     display: flex;
     text-align: center;
-    margin-left: 205px;
+    margin-right: -20%;
     margin-top: 5px;
   }
   .hero-container .img-01 {
