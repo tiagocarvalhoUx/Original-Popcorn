@@ -278,9 +278,8 @@ a:link {
     margin-right: -20px;
   }
   .hero-container .text {
-    display: flex;
-    text-align: center;
-    margin-right: -5%;
+    margin-right: -15px;
+    font-size: 18px;
     margin-top: 5px;
   }
   .hero-container .img-01 {
