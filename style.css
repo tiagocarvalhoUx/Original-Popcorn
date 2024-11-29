@@ -208,7 +208,7 @@ a:link {
   word-spacing: 10px;
   font-style: italic;
   text-shadow: 2px 2px 5px red;
-  line-height: 45px;
+  line-height: 60px;
 }
 
 .text {
@@ -273,7 +273,7 @@ a:link {
     margin-top: 60%;
   }
   .hero-container h1 {
-    margin-top: -95%;
+    margin-top: -90%;
     font-size: 22px;
     margin-right: -20px;
   }
@@ -284,7 +284,7 @@ a:link {
   }
   .hero-container .img-01 {
     width: 55%;
-    height: 320px;
+    height: 310px;
     margin-right: 240px;
   }
   .hero-container .button-contact {
@@ -362,6 +362,8 @@ body {
   display: flex;
   margin-top: 55px;
   border-radius: 20px;
+  background-color: #05e2ff;
+  border-style: double;
 }
 
 @media screen and (max-width: 768px) {
