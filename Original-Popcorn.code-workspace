@@ -1,9 +1,12 @@
 {
   "folders": [
-	{
-		"path": "."
-	}
-],
+    {
+      "path": "."
+    },
+    {
+      "path": "../imovel-react"
+    }
+  ],
   "settings": {
     "liveServer.settings.multiRootWorkspaceName": "Original-Popcorn"
   }

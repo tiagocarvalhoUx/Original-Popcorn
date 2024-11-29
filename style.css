@@ -560,6 +560,16 @@ h9 {
   margin-top: 5%;
 }
 
+h12 {
+  display: flex;
+  font-size: 800px;
+  font: bold;
+  text-align: center;
+  align-items: center;
+  padding: 34px 14px;
+  margin-top: 5%;
+}
+
 .gallery-container {
   display: flex;
   flex-wrap: wrap;
@@ -571,7 +581,7 @@ h9 {
 .gallery-items {
   height: 250px;
   width: 350px;
-  border: 10px solid #ffffff;
+  border: 2px solid #ffffff;
   box-shadow: 5px 5px 5px #353436;
   overflow: hidden;
   cursor: pointer;
@@ -731,6 +741,22 @@ iframe {
     width: 80%;
   }
 }
+figure {
+  display: flex;
+  flex-flow: column;
+  max-width: 350px;
+}
+
+figcaption {
+  background-color: rgba(102, 99, 99, 0.685);
+  color: #fff;
+  font-weight: 600;
+  padding: 3px;
+  text-align: center;
+  text-shadow: 2px 2px 2px #d34040;
+  margin-top: -28px;
+}
+
 body {
   font-family: "Sora", sans-serif;
   width: 100%;
