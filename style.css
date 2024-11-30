@@ -362,7 +362,7 @@ body {
   display: flex;
   margin-top: 55px;
   border-radius: 20px;
-  background-color: #05e2ff;
+  border-color: #05e2ff;
   border-style: double;
 }
 
